@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.com/Kantaaa/robofriendReact1/static/css/main.bd80ff48.css",
-    "main.js": "/github.com/Kantaaa/robofriendReact1/static/js/main.a7b9a189.js",
-    "static/js/787.32032a02.chunk.js": "/github.com/Kantaaa/robofriendReact1/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "/github.com/Kantaaa/robofriendReact1/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/github.com/Kantaaa/robofriendReact1/index.html",
-    "main.bd80ff48.css.map": "/github.com/Kantaaa/robofriendReact1/static/css/main.bd80ff48.css.map",
-    "main.a7b9a189.js.map": "/github.com/Kantaaa/robofriendReact1/static/js/main.a7b9a189.js.map",
-    "787.32032a02.chunk.js.map": "/github.com/Kantaaa/robofriendReact1/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/robofriendReact1/static/css/main.3e805b8f.css",
+    "main.js": "/robofriendReact1/static/js/main.be363649.js",
+    "static/js/787.32032a02.chunk.js": "/robofriendReact1/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/robofriendReact1/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robofriendReact1/index.html",
+    "main.3e805b8f.css.map": "/robofriendReact1/static/css/main.3e805b8f.css.map",
+    "main.be363649.js.map": "/robofriendReact1/static/js/main.be363649.js.map",
+    "787.32032a02.chunk.js.map": "/robofriendReact1/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd80ff48.css",
-    "static/js/main.a7b9a189.js"
+    "static/css/main.3e805b8f.css",
+    "static/js/main.be363649.js"
   ]
 }
